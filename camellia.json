@@ -1,28 +1,28 @@
 {
-	"response": [
-		{
-			"maintainer": "NaokoShoto",
-			"oem": "Xiaomi",
-			"device": "Redmi Note 10 5G",
-			"filename": "AlphaDroid-13.0-20230704-camellia-full_gapps-v1.5.1.zip",
-			"download": "https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-alpha/Release/AlphaDroid-13.0-20230704-camellia-full_gapps-v1.5.1.zip/download",
-			"timestamp": 1462764050,
-			"md5": "9db113e55b2df402cddf9a75a1937507",
-			"sha256": "f326fb838c50db104380e879769817d9d5cd47be969553ba410523dbece406b3",
-			"size": 1462770415,
-			"version": "1.5.1",
-			"buildtype": "full_gapps",
-			"forum": "https://t.me/naokoshoto_discuss",
-			"gapps": "",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-        		"recovery": "",
-			"paypal": "https://paypal.me/gemerfoxy",
-			"telegram": "https://t.me/naokoshoto",
-			"dt": "https://github.com/naokoshoto/alpha_device_xiaomi_camellia",
-			"common-dt": "",
-			"kernel": ""
-		}
-	]
+  "response": [
+    {
+      "maintainer": "NaokoShoto",
+      "oem": "Xiaomi",
+      "device": "Redmi Note 10 5G",
+      "filename": "AlphaDroid-13.0-20230704-camellia-full_gapps-v1.5.1.zip",
+      "download": "https://sourceforge.net/projects/naokoshoto-stuffs/files/camellia-alpha/Release/AlphaDroid-13.0-20230704-camellia-full_gapps-v1.5.1.zip/download",
+      "timestamp": 1462764050,
+      "md5": "9db113e55b2df402cddf9a75a1937507",
+      "sha256": "f326fb838c50db104380e879769817d9d5cd47be969553ba410523dbece406b3",
+      "size": 1462770415,
+      "version": "1.5.1",
+      "buildtype": "full_gapps",
+      "forum": "https://t.me/naokoshoto_discuss",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "https://paypal.me/gemerfoxy",
+      "telegram": "https://t.me/naokoshoto",
+      "dt": "https://github.com/naokoshoto/alpha_device_xiaomi_camellia",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
 }
