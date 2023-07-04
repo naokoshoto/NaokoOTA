@@ -1,0 +1,20 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Xiaomi Camellia/n Family (Redmi Note 10(T) / POCO M3 Pro / Note 11SE / 11 Prime 5G)
+Device maintainer: Naoko Shoto
+Required firmware: V14.0.4.0.TKSMIXM
+
+====================
+     04-07-2023
+====================
+- Initial OTA Support
+- Build sensor AIDL from source
+- Update overlays to V14.0.4.0.TKSMIXM
+- Refactor props from V14.0.4.0.TKSMIXM
+- Build WiFi stack from source
+- Props cleanup
+
+====================
+     29-06-2023
+====================
+- initial AlphaDroid monthly build
