@@ -5,9 +5,10 @@ Device maintainer: Naoko Shoto
 Required firmware: V14.0.4.0.TKSMIXM
 
 ====================
-     04-07-2023
+     05-07-2023
 ====================
 - Initial OTA Support
+- Sources updated for QPR3 (1.6)
 - Build sensor AIDL from source
 - Update overlays to V14.0.4.0.TKSMIXM
 - Refactor props from V14.0.4.0.TKSMIXM
